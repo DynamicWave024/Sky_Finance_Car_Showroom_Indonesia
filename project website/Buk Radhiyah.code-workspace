@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Buk Radhiyah",
+			"path": ".."
+		},
+		{
+			"name": "Pak Rahmat",
+			"path": "../../Pak Rahmat"
+		},
+		{
+			"name": "Buk Hendra.cpp",
+			"path": "D:/1. Zaiyan/Project C++/Coding/Buk Hendra.cpp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Buk Radhiyah"
+	}
+}
